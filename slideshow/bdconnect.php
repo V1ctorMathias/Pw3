@@ -2,7 +2,7 @@
 $servername = "localhost";
 $database = "aula_upload";
 $username = "root";
-$password = "301062Vi";
+$password = "";
 
 //Criando a conexão
 $conn = mysqli_connect($servername, $username, $password, $database);
