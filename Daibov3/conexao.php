@@ -2,7 +2,7 @@
 $servidor = "localhost";
 $banco = "bdpw3";
 $usuario = "root";
-$senha = "301062Vi";
+$senha = "";
 
 $pdo = new PDO("mysql:host=$servidor;dbname=$banco", $usuario, $senha);
 ?>
