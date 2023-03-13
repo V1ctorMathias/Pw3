@@ -7,7 +7,7 @@
 
     <link rel="stylesheet" href="stylesim2.css" />
 
-    <title>Site</title>
+    <title>Sites</title>
   </head>
 
   <body>
